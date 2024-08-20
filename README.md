@@ -529,3 +529,4 @@ git merge eff544f # Fusionará en un nuevo commit la historia de master con el m
 	• Utilizar nombres cortos y descriptivos
 	• Utilizar nombres en minuscula separados por guiones o barra diagonal
 	• Utilizar prefijos, Evitar nombres genericos
+o/
